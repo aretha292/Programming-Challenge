@@ -1,0 +1,58 @@
+There are seven cards in the hat.
+Each card has a number on it.
+One of the 7 cards is card k. The number on card k is 2k-1.
+Card 1 - x
+Card 2 - y
+Card 3 - b
+Card 4 - z
+Card 5 - p
+Card 6 - a
+Card k - 2k-1
+The sum of the numbers Alephile holds is more than 124 = >124
+Therefore;
+x + y + b + z + p + a + 2k-1 = >124
+K = 1, 2, 3, 4, 5, 6, 7.
+
+When k = 1
+x + y + b + z + p + a + 21-1 = >124
+x + y + b + z + p + a + 2o = >124
+x + y + b + z + p + a + 1 = >124
+x + y + b + z + p + a = >124 - 1
+
+When k = 2
+x + y + b + z + p + a + 22-1 = >124
+x + y + b + z + p + a + 21 = >124
+x + y + b + z + p + a + 2 = >124
+x + y + b + z + p + a = >124 - 2
+
+When k = 3
+x + y + b + z + p + a + 23-1 = >124
+x + y + b + z + p + a + 22 = >124
+x + y + b + z + p + a + 4 = >124
+x + y + b + z + p + a = >124 - 4
+
+When k = 4
+x + y + b + z + p + a + 24-1 = >124
+x + y + b + z + p + a + 23 = >124
+x + y + b + z + p + a + 8 = >124
+x + y + b + z + p + a = >124 - 8
+
+When k = 5
+x + y + b + z + p + a + 25-1 = >124
+x + y + b + z + p + a + 24 = >124
+x + y + b + z + p + a + 16 = >124
+x + y + b + z + p + a = >124 - 16
+
+When k = 6
+x + y + b + z + p + a + 26-1 = >124
+x + y + b + z + p + a + 25 = >124
+x + y + b + z + p + a + 32 = >124
+x + y + b + z + p + a = >124 - 32
+
+When k = 7
+x + y + b + z + p + a + 27-1 = >124
+x + y + b + z + p + a + 26 = >124
+x + y + b + z + p + a + 64 = >124
+x + y + b + z + p + a = >124 - 64
+
+Therefore, the probable sums he can get are >124 - 1, >124 - 2, >124 - 4, >124 - 8, >124 - 16, >124 - 32, >124 - 64.
